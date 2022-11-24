@@ -1,6 +1,6 @@
 ---
-title:  "Binaural Hearing and Speech Understanding: Potential Measures for Hidden Hearing Loss"
-author: "Jaime A. Undurraga"
+title:  "Modeling ANF responses to non-rectangular waveform stimuli"
+author: "Sarantos Mantzagriotis"
 date: "`r Sys.Date()`"
 output: 
  revealjs::revealjs_presentation:
